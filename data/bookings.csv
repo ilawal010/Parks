@@ -1,0 +1,5 @@
+Booking ID,Park ID,Visitor Name,Visitors Count,Date,Booking Type,Amount Paid,Checked In,Checked Out
+1,1,ibrahim lawal,2,2025-12-17,Family,5000,True,False
+2,1,ibrahim,1,2025-12-17,Agent Ticket Sale,6500,False,False
+3,1,ibrahm,1,2025-12-17,Agent Ticket Sale,1000,False,False
+4,1,musa,2,2025-12-18,Agent Ticket Sale,4700,True,False

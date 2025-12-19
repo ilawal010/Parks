@@ -1,0 +1,5 @@
+service_id,name,category,rate_ngn,frequency,notes
+1,BRT Ticket - Short,Transport,200,one-off,
+2,Taxi Ticket,Transport,150,one-off,
+10,Daily Taxi License,Tax/Daily,100,daily,Valid for today only
+20,Monthly Trader Permit,Tax/Monthly,3000,monthly,Valid until month end

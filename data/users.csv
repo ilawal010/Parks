@@ -1,0 +1,6 @@
+Username,Password,Role,Active
+admin,admin123,Admin,True
+agent1,agent123,Agent,True
+logistics1,log123,Logistics & Inventory,True
+parking1,park123,Parking Management,True
+public,public123,Public,True
